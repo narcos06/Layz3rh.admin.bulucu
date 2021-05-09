@@ -37,11 +37,7 @@ for kelime in kelimeler:
         
         print("Panel Bulundu 
 ===>"+sonuc)
-        
-        print("================================")
-                     
-
-                         
+                                     
         with open("siteler.txt","a") as file:
             file.write(sonuc+"\n")
     except:
