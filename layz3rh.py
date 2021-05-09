@@ -35,7 +35,7 @@ for kelime in kelimeler:
         print("============================")
         print("                                             ")
         
-               print("Panel Bulundu ===> "+sonuc)
+          print("Panel Bulundu ===> "+sonuc)
         
         print("================================")
                      
