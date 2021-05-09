@@ -36,10 +36,7 @@ for kelime in kelimeler:
         print("                                             ")
         
          print("Panel Bulundu 
-===>"+sonuc)
-        
-        print("================================")
-        print("                                             ")
+===>"+sonuc)                                        ")
 
                          
         with open("siteler.txt","a") as file:
