@@ -34,7 +34,8 @@ for kelime in kelimeler:
         openurl=urllib.request.urlopen(sonuc)
         print("============================")
         print("                                             ")
-        print("Panel Bulundu ===> "+sonuc)
+        print("Panel Bulundu 
+===> "+sonuc)
                                      
         with open("siteler.txt","a") as file:
             file.write(sonuc+"\n")
