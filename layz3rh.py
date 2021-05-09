@@ -39,7 +39,7 @@ for kelime in kelimeler:
 ===>"+sonuc)
         
         print("================================")
-                     
+        print("                                             ")
 
                          
         with open("siteler.txt","a") as file:
